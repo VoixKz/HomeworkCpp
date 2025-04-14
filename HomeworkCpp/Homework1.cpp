@@ -125,7 +125,7 @@ public:
 };
 
 
-
+/*
 int main() {
 	
 	system("chcp 65001");
@@ -145,3 +145,4 @@ int main() {
 	s2.output();
 	return 0;
 }
+*/
