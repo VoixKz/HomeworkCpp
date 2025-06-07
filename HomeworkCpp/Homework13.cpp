@@ -85,7 +85,7 @@ public:
     void setData(const int *mas, int masSize) {
         setSize(masSize);
 
-        for (int i = 0; i > masSize; i++) {
+        for (int i = 0; i < masSize; i++) {
             this->Data[i] = mas[i];
         }
     }
