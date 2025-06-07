@@ -104,6 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -129,6 +130,12 @@
   <ItemGroup>
     <ClCompile Include="Homework1.cpp" />
     <ClCompile Include="Homework10.cpp" />
+    <ClCompile Include="Homework11.cpp" />
+    <ClCompile Include="Homework12.cpp" />
+    <ClCompile Include="Homework13.cpp" />
+    <ClCompile Include="Homework14.cpp" />
+    <ClCompile Include="Homework15.cpp" />
+    <ClCompile Include="Homework16.cpp" />
     <ClCompile Include="Homework2.cpp" />
     <ClCompile Include="Homework3.cpp" />
     <ClCompile Include="Homework4.cpp" />

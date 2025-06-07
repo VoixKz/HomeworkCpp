@@ -81,6 +81,7 @@ public:
     }
 };
 
+/*
 int main() {
     Reservoir r1("Balkhash", 2000, 1500, 30, "lake");
     Reservoir r2("Caspian Sea", 5000, 3000, 100, "sea");
@@ -100,3 +101,4 @@ int main() {
 
     return 0;
 }
+*/
