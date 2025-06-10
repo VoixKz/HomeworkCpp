@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -137,8 +137,11 @@
     <ClCompile Include="Homework15.cpp" />
     <ClCompile Include="Homework16.cpp" />
     <ClCompile Include="Homework17.cpp" />
-    <ClCompile Include="Homework18.cpp" />
+    <ClCompile Include="Homework18_20.cpp" />
+    <ClCompile Include="Homework19.cpp" />
     <ClCompile Include="Homework2.cpp" />
+    <ClCompile Include="Homework21_22.cpp" />
+    <ClCompile Include="Homework23.cpp" />
     <ClCompile Include="Homework3.cpp" />
     <ClCompile Include="Homework4.cpp" />
     <ClCompile Include="Homework5.cpp" />

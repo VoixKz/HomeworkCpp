@@ -79,6 +79,7 @@ public:
 
 
 
+/*
 int main() {
 	QueuePrior<string> q(5);
 
@@ -96,3 +97,4 @@ int main() {
 
 	return 0;
 }
+*/
