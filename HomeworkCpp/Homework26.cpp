@@ -113,6 +113,10 @@ public:
 
 
 
+// 2 задание сделано в Homework24.cpp
+
+
+
 /*
 int main() {
 	Dog myDog("Buddy", 3, "Golden Retriever");
