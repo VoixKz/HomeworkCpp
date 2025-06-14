@@ -81,7 +81,7 @@
     <ClCompile Include="Homework24.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Homework25.cpp">
+    <ClCompile Include="!Homework25.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="Homework26.cpp">
@@ -90,7 +90,7 @@
     <ClCompile Include="Homework27.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Homework28.cpp">
+    <ClCompile Include="!Homework28.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
